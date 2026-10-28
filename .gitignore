@@ -1,0 +1,24 @@
+# Personal data and secrets (never commit)
+storage/*
+!storage/README.txt
+*.sqlite3
+*.sqlite
+*.db
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# local build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.log
+*.bak
+*.zip
+.DS_Store
+Thumbs.db
