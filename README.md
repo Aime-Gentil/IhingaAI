@@ -1,4 +1,3 @@
-## IhingaAI-Smarter Farming Together
 **An AI-Assisted Agricultural Decision-Support Platform for Rwanda**
 
 **Team:** Pioneers  
