@@ -1,4 +1,4 @@
-# IhingaAI — Smarter Farming Together
+## IhingaAI — Smarter Farming Together
 
 **An AI-Assisted Agricultural Decision-Support Platform for Rwanda**
 
@@ -6,9 +6,9 @@
 **Competition:** NISR Hackathon 2026  
 **Track:** Agricultural Productivity
 
-**[Live Application](https://ihingaai-pioneers.streamlit.app)** | **[GitHub Repository](https://github.com/Aime-Gentil/IhingaAI)**
+**[Live Application](https://ihingaai-pioneers.streamlit.app)**
 
-## 1. Project Overview
+### 1. Project Overview
 
 IhingaAI is an agricultural decision-support platform that helps Rwandan farmers, agronomists, and agricultural planners make informed decisions using data, machine learning, and artificial intelligence.
 
@@ -16,7 +16,7 @@ The platform integrates harvest estimation, crop monitoring, weather information
 
 Its goal is to transform agricultural data into practical insights that support better farming decisions and improved productivity.
 
-## 2. Problem Statement
+### 2. Problem Statement
 
 Many farmers have limited access to timely and relevant agricultural information, making it difficult to predict harvest outcomes, identify risks, manage production costs, and plan farming activities effectively.
 
@@ -24,7 +24,7 @@ Agronomists and agricultural planners also need better access to organized field
 
 IhingaAI addresses these challenges by connecting agricultural data with practical decision-support tools.
 
-## 3. Key Features
+### 3. Key Features
 
 | Feature | Description |
 |---|---|
@@ -40,7 +40,7 @@ IhingaAI addresses these challenges by connecting agricultural data with practic
 | Agronomist Support | Enables consultations and permission-based information sharing. |
 | Planning Analytics | Provides agricultural summaries and analytical insights. |
 
-## 4. User Roles
+### 4. User Roles
 
 **Farmers:** Register fields, estimate harvests, monitor crops, evaluate risks, track finances, and access agricultural guidance.
 
@@ -48,7 +48,7 @@ IhingaAI addresses these challenges by connecting agricultural data with practic
 
 **Planners:** Access agricultural analytics and planning information. Account creation requires administrator authorization.
 
-## 5. Data and Methodology
+### 5. Data and Methodology
 
 IhingaAI uses historical agricultural observations associated with Rwanda's **2025 Seasonal Agricultural Survey (SAS)** from the National Institute of Statistics of Rwanda (NISR).
 
@@ -62,7 +62,7 @@ Google Gemini provides optional AI-generated recommendations, while Open-Meteo s
 
 Further details are available in `DATA_SOURCES.md`.
 
-## 6. Technology Stack
+### 6. Technology Stack
 
 | Component | Technology |
 |---|---|
@@ -77,7 +77,7 @@ Further details are available in `DATA_SOURCES.md`.
 | Version Control | Git, GitHub |
 | Deployment | Streamlit Community Cloud |
 
-## 7. Installation
+### 7. Installation
 
 **Requirements:** Python 3.11 and the dependencies specified in `requirements.txt`.
 
@@ -102,7 +102,7 @@ python -m streamlit run app.py
 
 AI functionality requires a Gemini API key configured through Streamlit Secrets. API keys and private user information must never be committed to GitHub.
 
-## 8. Limitations and Future Improvements
+### 8. Limitations and Future Improvements
 
 IhingaAI is currently a hackathon prototype intended for demonstration and further evaluation.
 
@@ -116,7 +116,7 @@ Current limitations include:
 
 Future development will prioritize persistent cloud storage, expanded model validation, stronger data protection, and improved agricultural recommendations.
 
-## 9. Team and Acknowledgements
+### 9. Team and Acknowledgements
 
 **Developed by Team Pioneers** for the NISR Hackathon 2026, Agricultural Productivity Track.
 
