@@ -1,5 +1,6 @@
-**An AI-Assisted Agricultural Decision-Support Platform for Rwanda**
+## IhingaAI
 
+**An AI-Assisted Agricultural Decision-Support Platform for Rwanda**
 **Team:** Pioneers  
 **Competition:** NISR Hackathon 2026  
 **Track:** Agricultural Productivity
